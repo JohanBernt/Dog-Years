@@ -11,6 +11,6 @@ myAgeInDogYears=earlyYears + laterYears;
 const myName = 'Cherie Yoong'
 console.log(`My name is ${myName}. I am ${myAge} years old in human years which is ${myAgeInDogYears} years old in dog years.`);
 
-const favourite = 'dick'
-const mood = 'horny'
+const favourite = 'biscuits'
+const mood = 'hungry'
 console.log(`My name is ${myName}. I am very ${mood}. I would like some ${favourite}.`)
